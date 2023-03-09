@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-more&label=Profile%20views&color=0e75b6&style=flat" alt="yash-more" /> </p>
 
-- 🌱 I’m currently learning **PYTHON 🐍 & MYSQL**
+- 🌱 I’m currently learning **PYTHON 🐍 & SQL**
 
 - 📫 How to reach me **opyash21@gmail.com**
 
